@@ -7,3 +7,6 @@
 [submodule "cub3D"]
 	path = cub3D
 	url = git@github.com:Mohamadaliibrahim/cub3D.git
+[submodule "get_next_line"]
+	path = get_next_line
+	url = git@github.com:Mohamadaliibrahim/get_next_line.git
