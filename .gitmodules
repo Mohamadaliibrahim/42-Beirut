@@ -1,0 +1,3 @@
+[submodule "pipex"]
+	path = pipex
+	url = git@github.com:Mohamadaliibrahim/pipex.git
