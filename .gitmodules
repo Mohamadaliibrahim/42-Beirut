@@ -13,3 +13,6 @@
 [submodule "philosophers"]
 	path = philosophers
 	url = git@github.com:Mohamadaliibrahim/philosophers.git
+[submodule "ft_printf"]
+	path = ft_printf
+	url = git@github.com:Mohamadaliibrahim/ft_printf.git
