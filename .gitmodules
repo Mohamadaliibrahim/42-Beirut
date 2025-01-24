@@ -1,3 +1,6 @@
 [submodule "pipex"]
 	path = pipex
 	url = git@github.com:Mohamadaliibrahim/pipex.git
+[submodule "push_swap"]
+	path = push_swap
+	url = git@github.com:Mohamadaliibrahim/push_swap.git
