@@ -4,3 +4,6 @@
 [submodule "push_swap"]
 	path = push_swap
 	url = git@github.com:Mohamadaliibrahim/push_swap.git
+[submodule "cub3D"]
+	path = cub3D
+	url = git@github.com:Mohamadaliibrahim/cub3D.git
