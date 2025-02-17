@@ -25,3 +25,6 @@
 [submodule "minishell"]
 	path = minishell
 	url = git@github.com:Mohamadaliibrahim/minishell.git
+[submodule "CPP_Module"]
+	path = CPP_Module
+	url = ../CPP_Module
